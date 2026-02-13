@@ -1,12 +1,12 @@
-# 🎧 Audio Dataset Analysis Project
+#  Sportify Dataset Analysis Project
 
-## 📌 Overview
+## Overview
 
 This project aims to analyze an audio dataset containing information about sound tracks, including title, duration, and artist. The goal of this analysis is to explore duration patterns, artist distribution, and content characteristics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze track duration distribution  
 - Identify the longest and shortest tracks  
@@ -16,7 +16,7 @@ This project aims to analyze an audio dataset containing information about sound
 
 ---
 
-## 🗂️ Dataset Information
+##  Dataset Information
 
 The dataset contains the following columns:
 
@@ -35,7 +35,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
 
@@ -47,7 +47,7 @@ The following analyses were performed:
 
 ---
 
-## 🛠️ Data Preprocessing
+##  Data Preprocessing
 
 - Renamed columns for consistency  
 - Converted duration to numeric format  
@@ -56,7 +56,7 @@ The following analyses were performed:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Pandas  
@@ -65,7 +65,7 @@ The following analyses were performed:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Some tracks have unusually long durations (e.g., ambient sound tracks)  
 - Nature/ambient artists tend to produce longer audio tracks  
@@ -75,7 +75,7 @@ The following analyses were performed:
 
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Build audio category classifier  
 - Perform NLP analysis on track titles  
@@ -84,7 +84,7 @@ The following analyses were performed:
 
 ---
 
-## 👤 Author
+##  Author
 
 Syukri Fajrin  
 Data Analyst | Machine Learning Enthusiast  
